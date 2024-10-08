@@ -1,3 +1,3 @@
-# farkle-game
+# Farkle-Game
 
 Farkle game maded in C.
